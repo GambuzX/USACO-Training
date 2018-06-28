@@ -24,5 +24,8 @@
     <ClCompile Include="GreedyGiftGivers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="friday.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
