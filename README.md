@@ -1,1 +1,1 @@
-# USACO-Training
+# USACO-Training :man_student:
